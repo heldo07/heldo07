@@ -126,7 +126,7 @@ lign="left"
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldo07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldo07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=11" 
   />
 
 </p>
